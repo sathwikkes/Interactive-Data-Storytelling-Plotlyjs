@@ -1,0 +1,19 @@
+{
+  "name": "Plotly-Educative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html -p 3000",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "plotly.js-dist": "^2.12.1",
+    "plotly.js-dist-min": "^2.12.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
